@@ -1,3 +1,4 @@
 Ой, это нужно удалить
 
 hello, git!
+hello, git cherry-pick!
